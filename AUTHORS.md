@@ -1,2 +1,3 @@
 # This file lists all individuals having contributed content to the repository.
-OKAFOR CHIAMAKA <egeonuchiamaka11@gmail.com>
+
+Okafor Chiamaka <egeonuchiamaka11@gmail.com>
